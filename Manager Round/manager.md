@@ -1,0 +1,5 @@
+### Tell me about yourself?
+
+Ok i am going start with my name, My name is Sunil and i'm 24 currently living in Kota. Back in 2018 I graduated from IITI with a degree in Electrical Engineering, But because of my keen interest in Software Engineering/ Computer Science, I switched from EE to Computer Science.
+
+Actually After I graduated from college i didn't have a clue what do next, So I gave 1 extra chance to my EE and spent almost an year with that but couldn't get the satisfaction out of it. So, i decided not to choose EE as my career. Since i was good at physics, So i started teaching IIT-JEE aspirants, that was easy money but still the satisfaction wasn't there, then my brother who is also a soft. eng. suggested me to give a chance to soft. eng., So i started with DS-Algo, Then i started learning web-dev, I got understanding on how things works on the web/Internet, How machines communicate and It was pretty Interesting and yeah finally I got the satisfaction and choose it as a career.

@@ -1,0 +1,36 @@
+.outer {
+  height: 400px;
+  width: 600px;
+  background-color: cadetblue;
+  margin: 20px;
+  position: relative;
+}
+
+.outer div {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(153, 60, 60);
+  color: white;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.relative {
+  position: relative;
+  top: 30px;
+  left: 80px;
+}
+
+.fixed {
+  position: fixed;
+  top: 20px;
+  left: 800px;
+}
+
+.absolute {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
