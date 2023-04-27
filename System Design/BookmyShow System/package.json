@@ -1,0 +1,16 @@
+{
+  "name": "bookmyshow-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BMS.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

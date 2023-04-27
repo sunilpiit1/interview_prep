@@ -13,3 +13,6 @@ let final = [1, 2, 3].custom_reduce((final, val) => {
   return final + val;
 }, 0);
 console.log(final);
+
+/**forEach */
+/** takes an array and execute the callback */

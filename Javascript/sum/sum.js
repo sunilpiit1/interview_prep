@@ -1,6 +1,7 @@
 /**implement sum(1)(2)(3)() */
 
-const sum = function (a) {
+// this is great example of funtion currying in javascript
+const sum = function (a = 0) {
   return function (b) {
     if (b) {
       return sum(a + b); // it takes an argument and return a function which again can take an argument.

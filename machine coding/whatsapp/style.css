@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+.leftMain {
+  background-color: aqua;
+  width: 30%;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.leftMain::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.rightMain {
+  background-color: brown;
+  width: 70%;
+  height: 100%;
+}
+
+.userCard {
+  display: flex;
+  height: 50px;
+  width: 100%;
+  margin: 5px 0;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(217, 214, 214);
+}
